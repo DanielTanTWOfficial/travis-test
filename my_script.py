@@ -1,5 +1,5 @@
 def factorial(n):
-    fac = 1
+    fac = n
     if n == 0:
         return fac
     else:
