@@ -1,6 +1,6 @@
 def factorial(n):
     fac = n
-    if n == 0:
+    if n == 1:
         return fac
     else:
         fac *= factorial(n-1)
